@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "28dca268-5b10-43c6-9f3a-71c099ffe96d": {
+      "ProjectGuid": "28dca268-5b10-43c6-9f3a-71c099ffe96d",
+      "DisplayName": "Week11_G4_API",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a08b6052-9a05-49b2-bd2a-76fc9b05deb2": {
+      "ProjectGuid": "a08b6052-9a05-49b2-bd2a-76fc9b05deb2",
+      "DisplayName": "Week11_G4_APITests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
